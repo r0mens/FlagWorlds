@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Флаги Мира</string>
+    <string name="welcome">Приглашаем</string>
+    <string name="bannerFlag">Banner Flag</string>
+    <string name="to">поиграть в</string>
+    <string name="nameLabel">Имя: </string>
+    <string name="hiSocre">Рекорд: </string>
+    <string name="areaLabel">Зона: </string>
+    <string name="areaLabel1">Восточная Европа</string>
+    <string name="areaLabel2">Европа</string>
+    <string name="areaLabel3">Азия</string>
+    <string name="areaLabel4">Африка</string>
+    <string name="areaLabel5">Америка</string>
+    <string name="areaLabel6">Океания</string>
+    <string name="areaLabel7">Непризнанные..</string>
+    <string name="hintText">Ваше имя</string>
+    <string name="hiScoreDefText">%1$s очков</string>
+    <string name="play">Играть!</string>
+    <string name="playAgain">Играть ещё!</string>
+    <string name="flag1">1ий Флаг</string>
+    <string name="flag2">2ий Флаг</string>
+    <string name="flag3">3ій Флаг</string>
+    <string name="flag4">4ий Флаг</string>
+    <string name="questNo">Флаг ном. %1$s (из %2$s)</string>
+    <string name="gameQuestion">Выбрать флаг  %1$s!</string>
+    <string name="basicHeader1">Зона не выбрана!</string>
+    <string name="basicInfo1">По умолчанию будет выбрана зона «Восточная Европа».</string>
+    <string name="basicHeader2">Имя не выбрано!</string>
+    <string name="basicInfo2">Без имени рекорд не будет сохранён</string>
+    <string name="ok">Хорошо</string>
+    <string name="cancel">Отменить</string>
+    <string name="yourResultNoHiscore">Ваш результат:</string>
+    <string name="yourResultPerHiscore">Новый личный рекорд!</string>
+    <string name="yourResulHiscore">Новый рекорд!!</string>
+    <string name="gotNoOfFlags">%1$s (из %2$s) флагов</string>
+    <string name="verdict1">Молодець!!</string>
+    <string name="verdict2">Продолжай работать!</string>
+    <string name="verdict3">Куму-то нужно учиться..</string>
+    <string name="bestPlayers">Лучшие игроки:</string>
+    <string name="empty">Имя игрока</string>
+    <string name="firstPlace">1.</string>
+    <string name="secondPlace">2.</string>
+    <string name="thirdPlace">3.</string>
+    <string name="personalHiText">Ваша история  %1$s флагов</string>
+    <string name="preference_file_key" translatable="false">flagQuiz_prefs</string>
+    <string name="correctFlags">%1$s флагов</string>
+    <string name="practice_label_btn">Практика</string>
+    <string name="practice_main">Нажмите на флаг, чтоб открыть страну</string>
+    <string name="back_btn">Назад</string>
+    <string name="questionmark" translatable="false">\?\?\?\?\?</string>
+    <string name="star_desc" translatable="false">Star to Animate when right answer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

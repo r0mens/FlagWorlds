@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прапори Світу</string>
+    <string name="welcome">Запрошуємо</string>
+    <string name="bannerFlag">Banner Flag</string>
+    <string name="to">зіграти у </string>
+    <string name="nameLabel">Ім\'я: </string>
+    <string name="hiSocre">Рекорд: </string>
+    <string name="areaLabel">Зона: </string>
+    <string name="areaLabel1">Східна Європа</string>
+    <string name="areaLabel2">Європа</string>
+    <string name="areaLabel3">Азія</string>
+    <string name="areaLabel4">Афріка</string>
+    <string name="areaLabel5">Америка</string>
+    <string name="areaLabel6">Океанія</string>
+    <string name="areaLabel7">Невизнані..</string>
+    <string name="hintText">Ваше ім\'я</string>
+    <string name="hiScoreDefText">%1$s очков</string>
+    <string name="play">Грати!</string>
+    <string name="playAgain">Грати ще!</string>
+    <string name="flag1">1ий Прапор</string>
+    <string name="flag2">2ий Прапор</string>
+    <string name="flag3">3ій Прапор</string>
+    <string name="flag4">4ий Прапор</string>
+    <string name="questNo">Прапор ном. %1$s (з %2$s)</string>
+    <string name="gameQuestion">Вибрати прапор  %1$s!</string>
+    <string name="basicHeader1">Зона не вибрана!</string>
+    <string name="basicInfo1">За замовчуванням буде обрана зона «Східна Європа».</string>
+    <string name="basicHeader2">Ім\'я не вибрано!</string>
+    <string name="basicInfo2">Без імені жоден рекорд не буде збережено</string>
+    <string name="ok">Добре</string>
+    <string name="cancel">Cкасувати</string>
+    <string name="yourResultNoHiscore">Ваш результат:</string>
+    <string name="yourResultPerHiscore">Новий особистий рекорд!</string>
+    <string name="yourResulHiscore">Новий рекорд!!</string>
+    <string name="gotNoOfFlags">%1$s (з %2$s) прапорів</string>
+    <string name="verdict1">Молодець!!</string>
+    <string name="verdict2">Продовжувати працювати!</string>
+    <string name="verdict3">Комусь треба вчитися..</string>
+    <string name="bestPlayers">Найкращі гравці:</string>
+    <string name="empty">Ім\'я гравця</string>
+    <string name="firstPlace">1.</string>
+    <string name="secondPlace">2.</string>
+    <string name="thirdPlace">3.</string>
+    <string name="personalHiText">Ваша історія  %1$s прапорів</string>
+    <string name="preference_file_key" translatable="false">flagQuiz_prefs</string>
+    <string name="correctFlags">%1$s прапорів</string>
+    <string name="practice_label_btn">Практика</string>
+    <string name="practice_main">Натисніть на прапор, щоб відкрити країну</string>
+    <string name="back_btn">Назад</string>
+    <string name="questionmark" translatable="false">\?\?\?\?\?</string>
+    <string name="star_desc" translatable="false">Star to Animate when right answer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

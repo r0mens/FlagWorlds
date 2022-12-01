@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">FlagWorlds</string>
+    <string name="welcome">Welcome</string>
+    <string name="bannerFlag">Banner Flag</string>
+    <string name="to">to</string>
+    <string name="nameLabel">Name: </string>
+    <string name="hiSocre">Hiscore: </string>
+    <string name="areaLabel">Zone: </string>
+    <string name="areaLabel1">East Europe</string>
+    <string name="areaLabel2">Europe</string>
+    <string name="areaLabel3">Asia</string>
+    <string name="areaLabel4">Africa</string>
+    <string name="areaLabel5">America</string>
+    <string name="areaLabel6">Oceania</string>
+    <string name="areaLabel7">Unrecognized..</string>
+    <string name="hintText">Your name</string>
+    <string name="hiScoreDefText">%1$s points</string>
+    <string name="play">Play!</string>
+    <string name="playAgain">Play again!</string>
+    <string name="flag1">1st Flag</string>
+    <string name="flag2">2nd Flag</string>
+    <string name="flag3">3rd Flag</string>
+    <string name="flag4">4th Flag</string>
+    <string name="questNo">Flag no. %1$s (of %2$s)</string>
+    <string name="gameQuestion">Choose flag for %1$s!</string>
+    <string name="basicHeader1">No zone chosen!</string>
+    <string name="basicInfo1">Zone "East Europe" will be chosen as default</string>
+    <string name="basicHeader2">No name chosen!</string>
+    <string name="basicInfo2">Without name no Hiscore will be saved</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yourResultNoHiscore">Your result:</string>
+    <string name="yourResultPerHiscore">New personal Hiscore!</string>
+    <string name="yourResulHiscore">New Hiscore!!</string>
+    <string name="gotNoOfFlags">%1$s (of %2$s) flags</string>
+    <string name="verdict1">Well done!!</string>
+    <string name="verdict2">Keep working!</string>
+    <string name="verdict3">Someone needs to study..</string>
+    <string name="bestPlayers">Best Players:</string>
+    <string name="empty">Playername</string>
+    <string name="firstPlace">1.</string>
+    <string name="secondPlace">2.</string>
+    <string name="thirdPlace">3.</string>
+    <string name="personalHiText">Your hisore is %1$s flags</string>
+    <string name="preference_file_key" translatable="false">flagQuiz_prefs</string>
+    <string name="correctFlags">%1$s flags</string>
+    <string name="practice_label_btn">Practice</string>
+    <string name="practice_main">Click on flag to reveal Country</string>
+    <string name="back_btn">Back</string>
+    <string name="questionmark" translatable="false">\?\?\?\?\?</string>
+    <string name="star_desc" translatable="false">Star to Animate when right answer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

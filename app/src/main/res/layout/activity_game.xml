@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gameConstrain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".GameActivity">
+
+    <ImageView
+        android:id="@+id/ivTopBannerGamePage"
+        android:layout_width="409dp"
+        android:layout_height="38dp"
+        android:contentDescription="@string/bannerFlag"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/banner2" />
+
+    <FrameLayout
+        android:id="@+id/frmMainGame"
+        android:layout_width="409dp"
+        android:layout_height="656dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ivTopBannerGamePage">
+
+    </FrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
